@@ -1,11 +1,11 @@
 # Site settings
 author: Maika Kailani
-title: 
+title: Failing Upward
 header-img: img/home-bg.png
 email: queenmab051@gmail.com
 copyright_name: Maika Kailani
 description: > # this means to ignore newlines until "baseurl:"
-  
+  How I went from warehouse worker to tech student
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  XenoQueen
